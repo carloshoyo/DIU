@@ -2,8 +2,8 @@
 
 Práctica 1 DIU. Carlos Hoyo Liddle.
 
-- User research - (plan) template 
-- Desk research: Análisis Competencia
+- <a href="https://github.com/carloshoyo/DIU/blob/master/P1/P1-2b%20User%20Research%20Plan%20Template.pdf">User research - (plan) template </a>
+- <a href="https://github.com/carloshoyo/DIU/blob/master/P1/Competitor%20Analysis%20%5BDIU23%5D.pdf">Desk research: Análisis Competencia</a>
 
   Se han elegido tres competidores diferentes:
   - PilsaEduca (https://pilsaeduca.com/)
@@ -21,14 +21,14 @@ Práctica 1 DIU. Carlos Hoyo Liddle.
   
   Por otro lado está Gina, de 31 años, enfermera, la cual está pasando un momento complicado tras varias malas experiencias con pacientes, por lo que se encuentra en busca de un cambio de aires y de nuevas experiencias en las que conocer gente. Al encontrarse con un viaje en grupo organizado a Granada, decide apuntarse y ver qué le puede deparar la experiencia.
   
-- 2 User Journey Map  ( 1 por persona)
+- 2 User Journey Map ( 1 por persona)
 
   En primer lugar, tenemos el Journey Map de Ellijah, el cual, mientras busca actividades para realizar con su familia durante el viaje, se topa con la página de Granada Cooking y comienza a indagar un poco más acerca de sus ofertas. Tras echar un largo vistazo a todas las ofertas, encuentra la que mejor se adapta a él y su familia y decide realizar una reserva.
 
   En segundo lugar está Gina, que se ha encontrado en redes sociales con un viaje organizado para gente que no se conoce entre sí, con el objetivo de hacer nuevos amigos al mismo tiempo que se llevan a cabo actividades divertidas. Una de ellas es un taller de cocina en Granada de la mano de Granada Cooking y, tras mirar un poco y consultar a gente que ya ha participado, decide apuntarse.
   
-- Revisión de Usabilidad 
+- <a href="https://github.com/carloshoyo/DIU/blob/master/P1/Usability-review-template.xlsx">Revisión de Usabilidad</a>
 
-  En la revisión de usabilidad sale un resultado de 80 (Good), ya que, por lo general, la página funciona bien, aunque tiene ciertos aspectos a mejorar.
+  En la revisión de usabilidad de Granada Cooking sale un resultado de 80 (Good), ya que, por lo general, la página funciona bien, aunque tiene ciertos aspectos a mejorar.
 
 En resumen, creo que la realización de los pasos de esta práctica es bastante importante de cara a centrar un poco un negocio en el tipo de cliente que puede o quiere esperar, además de ayudar a identificar y solventar aquellos problemas que pueda tener nuestro sistema, para así ser capaces de ofrecer la mayor calidad y garantía posible a nuestros clientes.
