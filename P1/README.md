@@ -29,5 +29,6 @@
   
 - Revisión de Usabilidad 
 
+  En la revisión de usabilidad sale un resultado de 80 (Good), ya que, por lo general, la página funciona bien, aunque tiene ciertos aspectos a mejorar.
 
-(valoración y conclusiones de esta etapa)
+En resumen, creo que la realización de los pasos de esta práctica es bastante importante de cara a centrar un poco un negocio en el tipo de cliente que puede o quiere esperar, además de ayudar a identificar y solventar aquellos problemas que pueda tener nuestro sistema, para así ser capaces de ofrecer la mayor calidad y garantía posible a nuestros clientes.
