@@ -1,6 +1,6 @@
 ## DIU - Practica1, entregables
 
-
+Práctica 1 DIU. Carlos Hoyo Liddle.
 
 - User research - (plan) template 
 - Desk research: Análisis Competencia
