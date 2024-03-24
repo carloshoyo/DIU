@@ -1,12 +1,7 @@
-## DIU - Practica1, entregables
-
-<h2>TERMINAR DE AJUSTAR TAMAÑOA ESTRELLAS Y PONER LA CUENTA</h2>
-<h2>CAMBIAR LOS JOURNEY MAPS PARA QUE LOS PROBLEMAS SE AJUSTEN A LAS COSAS QUE HE VISTO EN LA PAGINA</h2>
-<h2>PONER EL NOMBRE DE LA PÁGINA EN LOS JOURNEY MAPS Y HACER RESUMEN DEL USER RESEARCH EN EL README</h2>
-
-Práctica 1 DIU. Carlos Hoyo Liddle.
+## DIU - Practica1, entregables. Carlos Hoyo Liddle.
 
 - <h2><a href="https://github.com/carloshoyo/DIU/blob/master/P1/P1-2b%20User%20Research%20Plan%20Template.pdf">User research - (plan) template </a></h2>
+  Se ha realizado el User Resarch para la página Granada Cooking, con el objetivo de encontarr el tipo de clientes que atrerá la página y cuáles pueden ser algunos de sus requisitos más importantes.
 - <h2><a href="https://github.com/carloshoyo/DIU/blob/master/P1/Competitor%20Analysis%20%5BDIU23%5D.pdf">Desk research: Análisis Competencia</a></h2>
 
   Se han elegido tres competidores diferentes:
@@ -33,6 +28,6 @@ Práctica 1 DIU. Carlos Hoyo Liddle.
   
 - <h2><a href="https://github.com/carloshoyo/DIU/blob/master/P1/Usability-review-template.xlsx">Revisión de Usabilidad</a></h2>
 
-  En la revisión de usabilidad de Granada Cooking sale un resultado de 80 (Good), ya que, por lo general, la página funciona bien, aunque tiene ciertos aspectos a mejorar.
+  En la revisión de usabilidad de Granada Cooking sale un resultado de 77 (Good), ya que, por lo general, la página funciona bien, aunque tiene ciertos aspectos a mejorar.
 
 En resumen, creo que la realización de los pasos de esta práctica es bastante importante de cara a centrar un poco un negocio en el tipo de cliente que puede o quiere esperar, además de ayudar a identificar y solventar aquellos problemas que pueda tener nuestro sistema, para así ser capaces de ofrecer la mayor calidad y garantía posible a nuestros clientes.
