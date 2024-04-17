@@ -3,7 +3,7 @@
 ## <a href="https://github.com/carloshoyo/DIU/blob/master/P2/Malla%20receptora.pdf">Ideación. Malla receptora</a>
   Se ha decidido realizar una malla receptora de la página web Granada Cooking (https://granadacooking.com/), a partir de la cual se ha decidido crear una aplicación basada en talleres gastronómicos, de forma que los clientes se puedan registrar, teniendo así su perfil para poder apuntarse a talleres y dar su opinión acerca de estos. Esto también servirá para poder ver los talleres en los que un usuario está apuntado y los que ha realizado anteriormente, además de poder ver qué otros usuarios hay apuntados a los talleres.
   
-![Malla receptora](Malla receptora.png)
+![Malla receptora](MallaReceptora.png)
 
 ## PROPUESTA DE VALOR
 ### Una breve descripición (frase o párrafo corto) que describa en qué se centra principalmente el proyecto.
