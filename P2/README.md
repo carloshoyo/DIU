@@ -1,10 +1,8 @@
 # DIU - Practica2, entregables
 
-## Ideación 
-### Elegir entre  la malla receptora y el mapa de empatía.
-* Malla receptora de información
-* Mapa de empatía
-* Point of View 
+## Ideación. Malla receptora
+  Se ha decidido realizar una malla receptora de la página web Granada Cooking (https://granadacooking.com/), a partir de la cual se ha decidido crear una aplicación basada en talleres gastronómicos, de forma que los clientes se puedan registrar, teniendo así su perfil para poder apuntarse a talleres y dar su opinión acerca de estos. Esto también servirá para poder ver los talleres en los que un usuario está apuntado y los que ha realizado anteriormente, además de poder ver qué otros usuarios hay apuntados a los talleres.
+  
 
 
 ## PROPUESTA DE VALOR
