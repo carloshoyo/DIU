@@ -6,8 +6,7 @@
 ![Malla receptora](MallaReceptora.png)
 
 ## PROPUESTA DE VALOR
-### Una breve descripición (frase o párrafo corto) que describa en qué se centra principalmente el proyecto.
-* _NombreAplicacion_ es una aplicación web para aquellos amantes de la gastronomía a los que no solo les gusta probar la comida, si no que su verdadera pasión es crearla. Se basa en un sistema en el que los clientes se puedan registrar, teniendo así su perfil para poder apuntarse a talleres y dar su opinión acerca de estos. Esto también servirá para poder ver los talleres en los que un usuario está apuntado y los que ha realizado anteriormente, además de poder ver qué otros usuarios hay apuntados a los talleres. Cada cliente tendrá un rango asociado, cuantos más talleres realice, mayor rango podrá alcanzar.
+  _NombreAplicacion_ es una aplicación web para aquellos amantes de la gastronomía a los que no solo les gusta probar la comida, si no que su verdadera pasión es crearla. Se basa en un sistema en el que los clientes se puedan registrar, teniendo así su perfil para poder apuntarse a talleres y dar su opinión acerca de estos. Esto también servirá para poder ver los talleres en los que un usuario está apuntado y los que ha realizado anteriormente, además de poder ver qué otros usuarios hay apuntados a los talleres. Cada cliente tendrá un rango asociado, cuantos más talleres realice, mayor rango podrá alcanzar.
 
 
 ## TASK ANALYSIS
