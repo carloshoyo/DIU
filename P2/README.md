@@ -15,6 +15,7 @@
 * User Task Matrix
   ![Task matrix](TaskMatrix.png)
 * User/Task flow
+  Se han realizado tres task user flow, el <a href="">primero</a> representando la acción de apuntarse a un taller, el <a href="">segundo</a> la acción de gestionar reservas, con la opción de modificar o eliminar una reserva y el <a href="">tercero</a> la acción de editar el perfil, con las opciones de cambiar foto, nombre, contraseña, correo o biografía del usuario.
 
 
 ## ARQUITECTURA DE INFORMACIÓN
