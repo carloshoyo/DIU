@@ -1,12 +1,12 @@
 # DIU - Practica 2, entregables
 
 ## <a href="https://github.com/carloshoyo/DIU/blob/master/P2/Malla%20receptora.pdf">Ideación. Malla receptora</a>
-  Se ha realizado una malla receptora de la página web Granada Cooking (https://granadacooking.com/), a partir de la cual se ha decidido crear una aplicación basada en actividades gastronómicos, que cuente con un mayor número de posibilidades, pudiendo crear su usario y tener un experiencia más personalizada. También contará con un apartado de búsqueda más útil.
+  Se ha realizado una malla receptora de la página web Granada Cooking (https://granadacooking.com/), a partir de la cual se ha decidido crear una aplicación basada en actividades gastronómicas, que podrán ser clases de cocina o torneos, que cuente con un mayor número de posibilidades, pudiendo crear su usario y tener una experiencia más personalizada. También contará con un apartado de búsqueda más útil.
   
 ![Malla receptora](MallaReceptora.png)
 
 ## PROPUESTA DE VALOR
-  _NombreAplicacion_ es una aplicación web para aquellos amantes de la gastronomía a los que no solo les gusta probar la comida, si no que su verdadera pasión es crearla. Se basa en un sistema en el que los clientes se puedan registrar, teniendo así su perfil para poder apuntarse a clases tornoes de cocina y dar su opinión acerca de estos. Esto también servirá para poder ver las clases y tornoes en los que un usuario está apuntado y los que ha realizado anteriormente, además de poder ver qué otros usuarios hay apuntados a estos. Cada cliente tendrá un rango asociado, cuantos más clases complete exitosamente, mayor rango podrá alcanzar. De la misma forma, cuantos más tornoes gane, mayor será su rango.
+  _NombreAplicacion_ es una aplicación web para aquellos amantes de la gastronomía a los que no solo les gusta probar la comida, si no que su verdadera pasión es crearla. Se basa en un sistema en el que los clientes se puedan registrar, teniendo así su perfil para poder apuntarse a clases torneos de cocina y dar su opinión acerca de estos. Esto también servirá para poder ver las clases y torneos en los que un usuario está apuntado y los que ha realizado anteriormente, además de poder ver qué otros usuarios hay apuntados a estos. Cada cliente tendrá un rango asociado, cuantos más clases complete exitosamente, mayor rango alcanzará. De la misma forma, cuantos más torneos gane, mayor será su rango.
 
 * ## Scope Canvas
   ![Scope canvas](scope_canvas_5_print_es.png)
@@ -45,7 +45,7 @@
   - FAQ: apartado con respuestas a todas aquellas preguntas que le suelen surgir a los clientes.
   - Gestionar reservas: apartado dentro de nuestra cuenta que nos permitirá ver las reservas que tenemos actualmente activas.
   - Revisar perfil: apartado de nuestra cuenta que nos permitirá ver qué valoraciones tenemos, así como el rango de socio que tenemos en ese momento.
-  - Revisar otro usuario: funcionalidad para observar a otros usuarios, además de contactarles y de darles una valoración en caso de haber coincidido con ellos.
+  - Revisar otro usuario: funcionalidad para observar a otros usuarios, además de contactarles y de darles una valoración en caso de haber coincidido con ellos en alguna actividad.
       
 
 
