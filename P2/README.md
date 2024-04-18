@@ -1,6 +1,6 @@
 # DIU - Practica 2, entregables
 
-## <a href="https://github.com/carloshoyo/DIU/blob/master/P2/Malla%20receptora.pdf">Ideación. Malla receptora</a>
+## Ideación. Malla receptora
   Se ha realizado una malla receptora de la página web Granada Cooking (https://granadacooking.com/), a partir de la cual se ha decidido crear una aplicación basada en actividades gastronómicas, que podrán ser clases de cocina o torneos, que cuente con un mayor número de posibilidades, pudiendo crear su usario y tener una experiencia más personalizada. También contará con un apartado de búsqueda más útil.
   
 ![Malla receptora](MallaReceptora.png)
