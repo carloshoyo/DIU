@@ -12,7 +12,8 @@
 
 ## TASK ANALYSIS
 ### En un excel, hacer una tabla con todos los requisitos fundamentales de la página, y los usuarios del sistema (en el ejemplo de la profesora eran usuario invitado, usuario preparando un viaje y usuario después de viajar), poniendo el nivel de importancia de 0 (no se usa) a 3 (h(high)) sumando en cada requisito el nivel de uso para cada usuario, de forma que podamos ordenar de más a menos prioridad y poner un corte en aquellos que no vamos a implementar. No sé qué es el User Flow.
-* User Task Matrix 
+* User Task Matrix
+  ![Task matrix](TaskMatrix.png)
 * User/Task flow
 
 
