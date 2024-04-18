@@ -1,7 +1,7 @@
 # DIU - Practica 2, entregables
 
 ## <a href="https://github.com/carloshoyo/DIU/blob/master/P2/Malla%20receptora.pdf">Ideación. Malla receptora</a>
-  Se ha realizado una malla receptora de la página web Granada Cooking (https://granadacooking.com/), a partir de la cual se ha decidido crear una aplicación basada en talleres gastronómicos, que cuente con un mayor número de posibilidades, pudiendo crear su usario y tener un experiencia más personalizada. También contará con un apartado de búsqueda más útil.
+  Se ha realizado una malla receptora de la página web Granada Cooking (https://granadacooking.com/), a partir de la cual se ha decidido crear una aplicación basada en actividades gastronómicos, que cuente con un mayor número de posibilidades, pudiendo crear su usario y tener un experiencia más personalizada. También contará con un apartado de búsqueda más útil.
   
 ![Malla receptora](MallaReceptora.png)
 
@@ -19,28 +19,28 @@
   ![Task matrix](TaskMatrix.png)
 * ## User/Task flow
   
-  Se han realizado tres user flow, el <a href="https://github.com/carloshoyo/DIU/blob/master/P2/UserFLow1.pdf">primero</a> representando la acción de apuntarse a un taller, el <a href="https://github.com/carloshoyo/DIU/blob/master/P2/UserFlow2.pdf">segundo</a> la acción de gestionar reservas, con la opción de modificar o eliminar una reserva y el <a href="https://github.com/carloshoyo/DIU/blob/master/P2/UserFlow3.pdf">tercero</a> la acción de editar el perfil, con las opciones de cambiar foto, nombre, contraseña, correo o biografía del usuario.
+  Se han realizado tres user flow, el <a href="https://github.com/carloshoyo/DIU/blob/master/P2/UserFLow1.pdf">primero</a> representando la acción de apuntarse a una actividad, el <a href="https://github.com/carloshoyo/DIU/blob/master/P2/UserFlow2.pdf">segundo</a> la acción de gestionar reservas, con la opción de modificar o eliminar una reserva y el <a href="https://github.com/carloshoyo/DIU/blob/master/P2/UserFlow3.pdf">tercero</a> la acción de editar el perfil, con las opciones de cambiar foto, nombre, contraseña, correo o biografía del usuario.
 
 
 ## ARQUITECTURA DE INFORMACIÓN
 ### Diagrama de la página desde la página principal hasta el resto de cosas que vayan a implementarse en ella.
 * ## Sitemap
-  ![Sitemap](Sitemap2.png)
+  ![Sitemap](Sitemap3.png)
 * ## Labelling
   - Home page: página principal del sistema donde se encontrarán las funciones básicas de la aplicación.
   - Cuenta: apartado dedicado a nuestro usuario para iniciar o cerrar sesión, registrarnos, etc.
-  - Talleres: apartado donde encontraremos todos los talleres ofrecidos para que podamos echarles un vistazo.
-  - Buscar: barra de búsqueda para que podamos encontrar aquellos talleres que más nos interesan.
+  - Actividades: apartado donde encontraremos todas las actividades ofrecidas para que podamos echarles un vistazo.
+  - Buscar: barra de búsqueda para que podamos encontrar aquellas actividades que más nos interesen.
   - Ayuda: zona dedicada a la atención al cliente.
   - Registrarse: creación de una cuenta de usuario.
   - Iniciar sesión: funcionalidad para acceder a nuestra cuenta.
   - Cerrar sesión: funcionalidad para salir de nuestra cuenta.
   - Editar perfil: apartado para la modificación de cualquier elemento de nuestra cuenta.
   - Borrar cuenta: eliminación permanente o temporal (suspensión) de la cuenta.
-  - Reservar taller: dedicado a la reserva de una plaza de un taller (apuntarse a un taller).
-  - Cancelar reserva: proceso para cancelar la participación en un taller.
-  - Proponer taller: proceso mediante el cual determinados usuarios podrán proponer talleres o ideas que consideren interesantes.
-  -  Comprobar valoraciones taller: cada taller tendrá unas valoraciones de los usarios que los han realizado que serán visibles para el resto de clientes.
+  - Reservar actividad: dedicado a la reserva de plaza de una actividad (apuntarse a una actividad).
+  - Cancelar reserva: proceso para cancelar la participación en una actividad.
+  - Proponer actividad: proceso mediante el cual determinados usuarios podrán proponer actividaades o ideas que consideren interesantes.
+  -  Comprobar valoraciones actividad: cada actividad tendrá unas valoraciones de los usarios que los han realizado que serán visibles para el resto de clientes.
   -  Contacto: apartado con todos los elementos de contacto (correo, teléfono, redes sociales, etc.).
   - FAQ: apartado con respuestas a todas aquellas preguntas que le suelen surgir a los clientes.
   - Gestionar reservas: apartado dentro de nuestra cuenta que nos permitirá ver las reservas que tenemos actualmente activas.
