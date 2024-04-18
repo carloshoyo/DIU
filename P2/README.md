@@ -6,24 +6,44 @@
 ![Malla receptora](MallaReceptora.png)
 
 ## PROPUESTA DE VALOR
-  _NombreAplicacion_ es una aplicación web para aquellos amantes de la gastronomía a los que no solo les gusta probar la comida, si no que su verdadera pasión es crearla. Se basa en un sistema en el que los clientes se puedan registrar, teniendo así su perfil para poder apuntarse a talleres y dar su opinión acerca de estos. Esto también servirá para poder ver los talleres en los que un usuario está apuntado y los que ha realizado anteriormente, además de poder ver qué otros usuarios hay apuntados a los talleres. Cada cliente tendrá un rango asociado, cuantos más talleres realice, mayor rango podrá alcanzar.
+  _NombreAplicacion_ es una aplicación web para aquellos amantes de la gastronomía a los que no solo les gusta probar la comida, si no que su verdadera pasión es crearla. Se basa en un sistema en el que los clientes se puedan registrar, teniendo así su perfil para poder apuntarse a talleres y dar su opinión acerca de estos. Esto también servirá para poder ver los talleres en los que un usuario está apuntado y los que ha realizado anteriormente, además de poder ver qué otros usuarios hay apuntados a los talleres. Cada cliente tendrá un rango asociado, cuantos más talleres complete exitosamente, mayor rango podrá alcanzar. Para completar el taller no basta únicamente con asistir, sino que se tendrán que cumplir unos requisitos en función a la comida que se esté preparando.
 
 * ## Scope Canvas
 
 ## TASK ANALYSIS
 ### En un excel, hacer una tabla con todos los requisitos fundamentales de la página, y los usuarios del sistema (en el ejemplo de la profesora eran usuario invitado, usuario preparando un viaje y usuario después de viajar), poniendo el nivel de importancia de 0 (no se usa) a 3 (h(high)) sumando en cada requisito el nivel de uso para cada usuario, de forma que podamos ordenar de más a menos prioridad y poner un corte en aquellos que no vamos a implementar. No sé qué es el User Flow.
-* User Task Matrix
+* ## User Task Matrix
   ![Task matrix](TaskMatrix.png)
-* User/Task flow
+* ## User/Task flow
   
   Se han realizado tres user flow, el <a href="https://github.com/carloshoyo/DIU/blob/master/P2/UserFLow1.pdf">primero</a> representando la acción de apuntarse a un taller, el <a href="https://github.com/carloshoyo/DIU/blob/master/P2/UserFlow2.pdf">segundo</a> la acción de gestionar reservas, con la opción de modificar o eliminar una reserva y el <a href="https://github.com/carloshoyo/DIU/blob/master/P2/UserFlow3.pdf">tercero</a> la acción de editar el perfil, con las opciones de cambiar foto, nombre, contraseña, correo o biografía del usuario.
 
 
 ## ARQUITECTURA DE INFORMACIÓN
 ### Diagrama de la página desde la página principal hasta el resto de cosas que vayan a implementarse en ella.
-* Sitemap
+* ## Sitemap
   ![Sitemap](Sitemap2.png)
-* Labelling 
+* ## Labelling
+  - Home page: página principal del sistema donde se encontrarán las funciones básicas de la aplicación.
+  - Cuenta: apartado dedicado a nuestro usuario para iniciar o cerrar sesión, registrarnos, etc.
+  - Talleres: apartado donde encontraremos todos los talleres ofrecidos para que podamos echarles un vistazo.
+  - Buscar: barra de búsqueda para que podamos encontrar aquellos talleres que más nos interesan.
+  - Ayuda: zona dedicada a la atención al cliente.
+  - Registrarse: creación de una cuenta de usuario.
+  - Iniciar sesión: funcionalidad para acceder a nuestra cuenta.
+  - Cerrar sesión: funcionalidad para salir de nuestra cuenta.
+  - Editar perfil: apartado para la modificación de cualquier elemento de nuestra cuenta.
+  - Borrar cuenta: eliminación permanente o temporal (suspensión) de la cuenta.
+  - Reservar taller: dedicado a la reserva de una plaza de un taller (apuntarse a un taller).
+  - Cancelar reserva: proceso para cancelar la participación en un taller.
+  - Proponer taller: proceso mediante el cual determinados usuarios podrán proponer talleres o ideas que consideren interesantes.
+  -  Comprobar valoraciones taller: cada taller tendrá unas valoraciones de los usarios que los han realizado que serán visibles para el resto de clientes.
+  -  Contacto: apartado con todos los elementos de contacto (correo, teléfono, redes sociales, etc.).
+  - FAQ: apartado con respuestas a todas aquellas preguntas que le suelen surgir a los clientes.
+  - Gestionar reservas: apartado dentro de nuestra cuenta que nos permitirá ver las reservas que tenemos actualmente activas.
+  - Revisar perfil: apartado de nuestra cuenta que nos permitirá ver qué valoraciones tenemos, así como el rango de socio que tenemos en ese momento.
+  - Revisar otro usuario: funcionalidad para observar a otros usuarios, además de contactarles y de darles una valoración en caso de haber coincidido con ellos.
+      
 
 
 ## Prototipo Lo-FI Wireframe 
