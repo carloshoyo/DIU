@@ -18,7 +18,8 @@
 
 ## ARQUITECTURA DE INFORMACIÓN
 ### Diagrama de la página desde la página principal hasta el resto de cosas que vayan a implementarse en ella.
-* Sitemap 
+* Sitemap
+  ![Sitemap](Sitemap.png)
 * Labelling 
 
 
