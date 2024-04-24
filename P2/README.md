@@ -12,7 +12,7 @@
   ![Scope canvas](scope_canvas_5_print_es.png)
 
 ## TASK ANALYSIS
-### En un excel, hacer una tabla con todos los requisitos fundamentales de la página, y los usuarios del sistema (en el ejemplo de la profesora eran usuario invitado, usuario preparando un viaje y usuario después de viajar), poniendo el nivel de importancia de 0 (no se usa) a 3 (h(high)) sumando en cada requisito el nivel de uso para cada usuario, de forma que podamos ordenar de más a menos prioridad y poner un corte en aquellos que no vamos a implementar. No sé qué es el User Flow.
+
 * ## User Task Matrix
   Se ha hecho una matriz de tareas en la que se tienen en cuenta cuatro grupos de usuarios. En primer lugar, aquellos usuarios que no están registrados, es decir, los invitados, para los cuales no estarán disponibles algunas tareas que requieran tener un perfil de usuario creado. Después tenemos a los usarios registrados, que se dividen en tres, los que se acaban de registrar, los que no tienen niguna plaza reservada en niguna actividad pero ya han realizado alguna anteriormente y los que están apuntados a alguna actividad. Una actividad puede ser tanto una clase como un torneo. En las clases se aprenderán cosas concretas de cocina, mientras que en los torneos se propondrán platos, los cuales deberán ser realizados por los participantes.
   
@@ -23,7 +23,7 @@
 
 
 ## ARQUITECTURA DE INFORMACIÓN
-### Diagrama de la página desde la página principal hasta el resto de cosas que vayan a implementarse en ella.
+
 * ## Sitemap
   ![Sitemap](Sitemap3.png)
 * ## Labelling
@@ -58,4 +58,4 @@ Después tenemos el cuerpo, en el cual encontramos por un lado las clases más s
 Se ha utilizado el plugin Breakpoint para realizar un diseño responsive que funcione tanto en ordeandor como en dispositivos móviles y tablets. Se encuentra <a href="https://www.figma.com/file/NC8mN6Aw2ZVW5NZlr3TDBj/BocetosP2?type=design&mode=design&t=83ghPbgD99bRGhE0-0">aquí</a>.
 
 ## Conclusiones  
-(incluye valoración de esta etapa)
+Esta práctica es muy interesante, ya que se ven aspectos bastante necesarios a la hora de realizar el diseño de un sistema de usuario, en especial la parte de los bocetos de la página, donde aprendemos a llevar la idea y el trabajo de todos los puntos anteriores a la realidad de una manera visible, comenzando a hacernos una idea de cómo va a ser nuestro proyecto.
