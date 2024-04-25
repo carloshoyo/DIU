@@ -27,25 +27,8 @@
 * ## Sitemap
   ![Sitemap](Sitemap3.png)
 * ## Labelling
-  - Home page: página principal del sistema donde se encontrarán las funciones básicas de la aplicación.
-  - Cuenta: apartado dedicado a nuestro usuario para iniciar o cerrar sesión, registrarnos, etc.
-  - Actividades: apartado donde encontraremos todas las actividades ofrecidas para que podamos echarles un vistazo.
-  - Buscar: barra de búsqueda para que podamos encontrar aquellas actividades que más nos interesen.
-  - Ayuda: zona dedicada a la atención al cliente.
-  - Registrarse: creación de una cuenta de usuario.
-  - Iniciar sesión: funcionalidad para acceder a nuestra cuenta.
-  - Cerrar sesión: funcionalidad para salir de nuestra cuenta.
-  - Editar perfil: apartado para la modificación de cualquier elemento de nuestra cuenta.
-  - Borrar cuenta: eliminación permanente o temporal (suspensión) de la cuenta.
-  - Reservar actividad: dedicado a la reserva de plaza de una actividad (apuntarse a una actividad).
-  - Cancelar reserva: proceso para cancelar la participación en una actividad.
-  - Proponer actividad: proceso mediante el cual determinados usuarios podrán proponer actividaades o ideas que consideren interesantes.
-  -  Comprobar valoraciones actividad: cada actividad tendrá unas valoraciones de los usarios que los han realizado que serán visibles para el resto de clientes.
-  -  Contacto: apartado con todos los elementos de contacto (correo, teléfono, redes sociales, etc.).
-  - FAQ: apartado con respuestas a todas aquellas preguntas que le suelen surgir a los clientes.
-  - Gestionar reservas: apartado dentro de nuestra cuenta que nos permitirá ver las reservas que tenemos actualmente activas.
-  - Revisar perfil: apartado de nuestra cuenta que nos permitirá ver qué valoraciones tenemos, así como el rango de socio que tenemos en ese momento.
-  - Revisar otro usuario: funcionalidad para observar a otros usuarios, además de contactarles y de darles una valoración en caso de haber coincidido con ellos en alguna actividad.
+  
+  ![Labelling](Labelling.png)
       
 
 
