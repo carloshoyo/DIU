@@ -36,7 +36,7 @@
 Se ha realizado el boceto de la página principal, en la cual encontramos una barra de navegación con un logo (por definir), enlaces a las clases y torneos disponibles, una barra de búsqueda y un apartado para registrarse o iniciar sesión.
 Después tenemos el cuerpo, en el cual encontramos por un lado las clases más solicitadas, con una foto, la cual irá cambiando cada ciertos segundos para mostrar diferentes clases y lo mismo en el otro lado para los torneos. Por último, encontramos el pie de página, con un apartado de ayuda y otro para la información acerca de los creadores. La estructura es la siguiente:
 
-![Boceto](Boceto.png)
+![Boceto](Boceto1.png)
 
 Se ha utilizado el plugin Breakpoint para realizar un diseño responsive que funcione tanto en ordeandor como en dispositivos móviles y tablets. Se encuentra <a href="https://www.figma.com/file/NC8mN6Aw2ZVW5NZlr3TDBj/BocetosP2?type=design&mode=design&t=83ghPbgD99bRGhE0-0">aquí</a>.
 
