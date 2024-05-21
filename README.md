@@ -182,7 +182,6 @@ El layout se ha implementado en <a href="https://www.figma.com/design/c8AbgRcvaw
   El diseño también contiene un menú desplegable mediante el cual podremos acceder a las clases o al apartado About Us, en el cual se encuentran lo que serían los perfiles de los miembros del equipo.
 
   Vídeo demostración de cómo usar el mockup:
-  [Vídeo](P3/VideoDIU.mp4)
 
   https://github.com/carloshoyo/DIU/assets/130358033/ee9cc228-30a9-41eb-9601-f6ce86c6011c
 
