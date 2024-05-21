@@ -35,14 +35,12 @@
   - Nav Bar
     - ![Nav Bar](Guidelines/NavBar.png)
   - Wizards
-    - ![Reserva](Guidelines/Reserva.png)
-    - ![Payment](Guidelines/Payment.png)
+    - ![Reserva](Guidelines/Reserva.png)    ![Payment](Guidelines/Payment.png)
   - About Us
-    - ![Form](Guidelines/"About Us.png")
+    - ![Form](Guidelines/AboutUs.png)
 
 
 ## Documentación: Publicación del Case Study
 
-
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+Esta práctica es muy interesante, ya que en ella se aprende a usar Figma en cierta profundidad, dando la posibilidad de tener un boceto bastante realista de la aplicación que se quiere llegar a implementar.
  
