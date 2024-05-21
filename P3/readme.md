@@ -39,8 +39,15 @@
   - About Us
     - ![Form](Guidelines/AboutUs.png)
 
+      
+- ### Layout Hi-Fi
+  El layout se ha implementado en <a href="https://www.figma.com/design/c8AbgRcvawjuxy6fYGhcvU/LayoutP3?node-id=0-1&t=lPhWeKOIqr4AkmLu-0">Figma</a>. Aquí se pueden ejecutar las transiciones del diseño y ver cómo funciona.
 
-## Documentación: Publicación del Case Study
+  Consta de una página inicial con el logo de la aplicación y un pequeño eslogan, la cual se difuminará pasado un segundo, dando lugar a la página principal. Una vez aquí, podremos acceder a las clases pulsando la foto que aparece y realizar el proceso de apuntarse.  
+  
+  El diseño también contiene un menú desplegable mediante el cual podremos acceder a las clases o al apartado About Us, en el cual se encuentran lo que serían los perfiles de los miembros del equipo.
+
+## Valoración
 
 Esta práctica es muy interesante, ya que en ella se aprende a usar Figma en cierta profundidad, dando la posibilidad de tener un boceto bastante realista de la aplicación que se quiere llegar a implementar.
  
