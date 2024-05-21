@@ -35,6 +35,7 @@
   - Nav Bar
     - ![Nav Bar](Guidelines/NavBar.png)
   - Wizards
+    Para los wizards no hay un elemento en sí que muestre el proceso que llevamos, ya que hay únicamente dos pasos a seguir, introducir nuestros datos e introducir un método de pago.
     - ![Reserva](Guidelines/Reserva.png)    ![Payment](Guidelines/Payment.png)
   - About Us
     - ![Form](Guidelines/AboutUs.png)
