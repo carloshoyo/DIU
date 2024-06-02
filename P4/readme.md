@@ -47,13 +47,17 @@ Elección y características
 
   Se ha realizado un Eye Track para cada proyecto mediante la plataforma GazeReporter.
   
-  Para el caso A:  
+  - Para el caso A:  
 
-https://github.com/carloshoyo/DIU/assets/130358033/6bcd3076-bf91-4105-a4dd-ef0bdb9b8419
+  https://github.com/carloshoyo/DIU/assets/130358033/6bcd3076-bf91-4105-a4dd-ef0bdb9b8419
 
-Para comprobar las áreas de interés pulse <a href="https://github.com/carloshoyo/DIU/tree/master/P4/AoI">aquí</a>
+  Para comprobar las áreas de interés pulse <a href="https://github.com/carloshoyo/DIU/tree/master/P4/AoI">aquí</a>
 
-Para el caso B:
+
+  - Para el caso B:
+
+  https://github.com/carloshoyo/DIU/assets/130358033/5036a78d-b106-4efb-b012-9dccada0cc8f
+
 
 
 
