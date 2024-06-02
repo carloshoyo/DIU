@@ -43,7 +43,22 @@ Elección y características
   Por otro lado, el proyecto B ha recibido una puntuación de 55 (Marginal D) por parte de Jose Luis, un 90 (Aceptable A) por parte de Daniel, un 77,5 (Aceptable B) por parte de Natalia y un 85 (Aceptable A) por parte de Martina. Una vez más se ve la diferencia entre los usuarios con más conocimiento respecto a aquellos que tienen menos. La puntuación media para el proyecto B es, por tanto, de 76.88 (Aceptable B/A).
 
 
-* Tareas realizadas 
+* Tareas realizadas
+
+  Se ha realizado un Eye Track para cada proyecto mediante la plataforma GazeReporter.
+  
+  Para el caso A:  
+
+https://github.com/carloshoyo/DIU/assets/130358033/6bcd3076-bf91-4105-a4dd-ef0bdb9b8419
+
+Para comprobar las áreas de interés pulse <a href="">aquí</a>
+
+Para el caso B:
+
+
+Para comprobar las áreas de interés pulse <a href="">aquí</a>
+
+
 
 
 * Usability Report de Caso B
