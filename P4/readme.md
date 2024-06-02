@@ -51,12 +51,9 @@ Elección y características
 
 https://github.com/carloshoyo/DIU/assets/130358033/6bcd3076-bf91-4105-a4dd-ef0bdb9b8419
 
-Para comprobar las áreas de interés pulse <a href="">aquí</a>
+Para comprobar las áreas de interés pulse <a href="https://github.com/carloshoyo/DIU/tree/master/P4/AoI">aquí</a>
 
 Para el caso B:
-
-
-Para comprobar las áreas de interés pulse <a href="">aquí</a>
 
 
 
