@@ -19,13 +19,22 @@ Elección y características
 
 | Id Usuario | Sexo | Edad | Ocupación | Experiencia en internet | Plataforma | Perfil cubierto | Test | SUS Score |
 |------------|------|------|-----------|-------------------------|------------|-----------------|------|-----------|
-| Jose Luis  | Masculino | 70 | Jubilado  | Baja                    | Windows    | Jubilado con ganas de disfrutar el tiempo que ahora tiene, pero asustado por la poca idea de usar tecnologías que posee| A | 23 |
-| Daniel | Masculino | 35 | Desarrollo de software | Alta | MacOS | Padre de familia , feliz y con mucho conocimiento y experiencia en la tecnología | A | 23 |
-| Natalia | Femenino | 25 | Traductora | Intermedia | Windows | Persona discapacitada que va en silla de ruedas, triste porque hay muchas actividades que no puede realizar por su condición física | B | 23 |
-| Martina | Femenino | 42 | Empresaria | Intermedia/Alta | MacOS | Empresaria de 42 años, dedicada al trabajo pero con ganas de disfrutar el poco tiempo libre del que dispone | B | 23 |
+| Jose Luis  | Masculino | 70 | Jubilado  | Baja                    | Windows    | Jubilado con ganas de disfrutar el tiempo que ahora tiene, pero asustado por la poca idea de usar tecnologías que posee| A/B | 23 |
+| Daniel | Masculino | 35 | Desarrollo de software | Alta | MacOS | Padre de familia , feliz y con mucho conocimiento y experiencia en la tecnología | A/B | 23 |
+| Natalia | Femenino | 25 | Traductora | Intermedia | Windows | Persona discapacitada que va en silla de ruedas, triste porque hay muchas actividades que no puede realizar por su condición física | A/B | 23 |
+| Martina | Femenino | 42 | Empresaria | Intermedia/Alta | MacOS | Empresaria de 42 años, dedicada al trabajo pero con ganas de disfrutar el poco tiempo libre del que dispone | A/B | 23 |
 
 
-* A/B Testing. 
+* A/B Testing.
+
+  ![Tabla SUS](img/TablaSUS.png)
+
+Basándonos en la interpretación de las puntucaicones que sigue:
+![Puntuacion SUS](img/PuntuacionSUS.)
+
+  El proyecto A ha recibido una valoración de 57.5 (Marginal D) por parte de Jose Luis, un 90 (Aceptable A) por parte de Daniel, un 80 (Aceptable A) por parte de Natalia y un 87.5 (Aceptable A) por parte de Martina. Se ve una variación considerable en la puntuación entre aquellos usuarios cuyos conocimientos del uso de internet y de las nuevas tecnologías es mayor respecto a aquellos donde es menor. La nota media sería, por tanto, 78.75 (Aceptable B/A).
+
+  Por otro lado, el proyecto B ha recibido una puntuación de 55 (Marginal D) por parte de Jose Luis, un 90 (Aceptable A) por parte de Daniel, un 77,5 (Aceptable B) por parte de Natalia y un 85 (Aceptable A) por parte de Martina. Una vez más se ve la diferencia entre los usuarios con más conocimiento respecto a aquellos que tienen menos. La puntuación media para el proyecto B es, por tanto, de 76.88 (Aceptable B/A).
 
 
 * Tareas realizadas 
