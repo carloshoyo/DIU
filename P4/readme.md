@@ -59,10 +59,11 @@ Elección y características
   https://github.com/carloshoyo/DIU/assets/130358033/5036a78d-b106-4efb-b012-9dccada0cc8f
 
 
-
-
-
 * Usability Report de Caso B
+
+  El usability report se ha hecho siguiendo la plantilla proporcionado en documento de Word y se puede encontrar <a href="https://github.com/carloshoyo/DIU/blob/master/P4/P4_UsabReport_DIU1_ElPatio_doneby_DIU2_CHL.pdf">aquí</a>.
 * Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
 
 * Conclusiones
+
+Esta práctica es muy útil para testar nuestro proyecto y poder comparar nuestros resultados con los del proyecto B, de manera que veamos en qué hemos podido ser mejores y en qué necesitamos mejorar de cara a mejorar nuestro producto.
