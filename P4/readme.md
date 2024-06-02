@@ -2,10 +2,11 @@
 
 
 
-Revisar [Asignacion_ABtesting](https://github.com/mgea/DIU/blob/master/P4/Asignacion_ABtesting.pdf)
-Lista de grupos 
+Proyecto a analizar: https://github.com/Gonzalo845/DIUElPatio  
 
-* Users 
+* Users
+  Se han creado 4 usuarios en base a los dados mostrados en el grion de la práctica.
+  
 
 Elección y características
 
