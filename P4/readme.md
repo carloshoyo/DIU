@@ -35,7 +35,7 @@ Elección y características
 
   ![Tabla SUS B](img/TablaSUS_B.png)
 
-  Basándonos en la interpretación de las puntucaicones que sigue:
+  Basándonos en la interpretación de las puntuaciones que sigue:
   ![Puntuacion SUS](img/Puntuacion_SUS-1.webp)
 
   El proyecto A ha recibido una valoración de 57.5 (Marginal D) por parte de Jose Luis, un 90 (Aceptable A) por parte de Daniel, un 80 (Aceptable A) por parte de Natalia y un 87.5 (Aceptable A) por parte de Martina. Se ve una variación considerable en la puntuación entre aquellos usuarios cuyos conocimientos del uso de internet y de las nuevas tecnologías es mayor respecto a aquellos donde es menor. La nota media sería, por tanto, 78.75 (Aceptable B/A).
