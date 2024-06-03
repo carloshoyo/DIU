@@ -205,27 +205,22 @@ Exportación a HTML/Flutter
 
 ![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
 
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
+>>> Para realizar el Eye Tracking se ha utilizado la plataforma GazeRecorder, mediante la cual podemos ver un mapa de calor con los puntos donde se ha concentrado la vista del usuario, haciendo posible ver si hemos llamado la atención en los puntos deseados o no.
 
 Diseño del experimento 
 ----
 
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
+>> Para llevar a cabo el experimento, primero han de definirse unas áreas de interés en cada página, es decir, aquellos puntos que consideramos que deberían ser los puntos donde el usuario concentre la mayor parte de su atención.
+>> Estas áreas de interés definidas son las siguientes:
+![AOI](P4/AoI/AoI_.png) ![AOI](P4/AoI/AoI_2.png) ![AOI](P4/AoI/AoI_3.png) ![AOI](P4/AoI/AoI_4.png) ![AOI](P4/AoI/AoI_5.png) ![AOI](P4/AoI/AoI_6.png)
 
-
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
 
 Resultados y valoración 
 -----
+El resultado generado en forma de vídeo es el siguiente:
 
 
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
+https://github.com/carloshoyo/DIU/assets/130358033/b9041139-f472-44f1-ac2a-2fa17a32eacb
 
 
 
@@ -236,21 +231,29 @@ Resultados y valoración
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+ El caso asignado es el proyecto EnderLands, llevado a cabo por el grupo DIU3_09_ElPatio, cuyo repositorio de GitHub podemos encontrar <a href="https://github.com/Gonzalo845/DIUElPatio">aquí.</a>
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+ Se han creado 4 usuarios en base a los dados mostrados en el guion de la práctica.
+  
+  ![DadosDIU](P4/img/DadosDIU.png)
+
+  - Persona 1 (6, 4, 2): Jose Luis es una persona jubilada de 70 años que, tras una vida trabajando duramente, se ha decidido en aprovechar al máximo su tiempo ahora que tiene la posibilidad de hacerlo. No obstante, tiene un poco de miedo a cómo comenzar a hacer esto debido a su poco manejo con las tecnologías. Por esto, Jose Luis necesita una plataforma fácil e intuituva de usar, donde las cosas principales estén los más visible que se pueda.
+  - Persona 2 (2, 1, 3): Daniel es un padre de familia de 35 años. Su familia está formada únicamente por él; su mujer, Rosa, de su misa edad; y su hija, María, de 7 años. Se dedica al desarrollo de software y es una persona bastante feliz con su vida en general. Tiene obviamente mucho conocimiento acerca de tecnologías y no le cuesta adaptarse a nuevas.
+  - Persona 3(4, 2, 6): Natalia es una persona discapacitada de 25 años que va en silla de ruedas, con mucho conocimiento de idiomas y que está un poco triste con su vida. Conoce la tecnología como cualquier persona que haya crecido con ella la puede conocer, es decir, sabe usarla aunque no la conoce en profuncidad. Natalia necesita actividades que puedan realizar todo tipo de personas debido a su condición física.
+  - Persona 4 (5, 1, 4): Martina es una empresaria de 42 años, la cual se pasa la mayor parte de su tiempo trabajando, aunque siempre le gusta poder irse de vacaciones con sus amigas de vez en cuando. Es una persona acostumbrada a trabajar con tecnología y, por su poco tiempo libre, necesita una plataforma que indique claramente la fecha y duración de las actividades ofrecidas.
+
  
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Id Usuario | Sexo | Edad | Ocupación | Experiencia en internet | Plataforma | Perfil cubierto | Test | SUS Score |
+|------------|------|------|-----------|-------------------------|------------|-----------------|------|-----------|
+| Jose Luis  | Masculino | 70 | Jubilado  | Baja                    | Windows    | Jubilado con ganas de disfrutar el tiempo que ahora tiene, pero asustado por la poca idea de usar tecnologías que posee| A/B | 57.5 |
+| Daniel | Masculino | 35 | Desarrollo de software | Alta | MacOS | Padre de familia , feliz y con mucho conocimiento y experiencia en la tecnología | A/B | 90 |
+| Natalia | Femenino | 25 | Traductora | Intermedia | Windows | Persona discapacitada que va en silla de ruedas, triste porque hay muchas actividades que no puede realizar por su condición física | A/B | 80 |
+| Martina | Femenino | 42 | Empresaria | Intermedia/Alta | MacOS | Empresaria de 42 años, dedicada al trabajo pero con ganas de disfrutar el poco tiempo libre del que dispone | A/B | 87.5 |
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
@@ -260,17 +263,20 @@ Resultados y valoración
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+Para el proyecto A:
+
+
+![Cuestionario SUS](P4/img/TablaSUS_A.png)
+
+Para el proyecyo B:
+
+![Cuestionario SUS](P4/img/TablaSUS_B.png)
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal 
+ Para el Usability Report se ha utilizado la plantilla Word proporcionada, la cual puede encontrarse <a href="https://github.com/carloshoyo/DIU/blob/master/P4/P4_UsabReport_DIU1_ElPatio_doneby_DIU2_CHL.pdf">aquí.</a>
 
 
 
@@ -280,9 +286,9 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ----
 
 
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
->> con los resultados del A/B testing, de eye tracking y del usability report:
->>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
+
+Esta práctica es muy útil de cara a evaluar nuestro proyecto y su usabilidad, comparándolo además con otro proyecto para ver las cosas en las que tenemos que mejorar principalmente.
+Las técnicas usadas son muy ingeniosas y sobre todo útiles de cara a observar qué aspectos de nuestro diseño son los que llaman más la atención de nuestros usuarios y cuáles pasan más desapercibidos.
 
 
 
