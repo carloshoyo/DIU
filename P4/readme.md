@@ -4,7 +4,7 @@
 
 Proyecto a analizar: https://github.com/Gonzalo845/DIUElPatio  
 
-* Users
+## Users
   
   Se han creado 4 usuarios en base a los dados mostrados en el guion de la práctica.
   
@@ -25,7 +25,7 @@ Elección y características
 | Martina | Femenino | 42 | Empresaria | Intermedia/Alta | MacOS | Empresaria de 42 años, dedicada al trabajo pero con ganas de disfrutar el poco tiempo libre del que dispone | A/B | 23 |
 
 
-* A/B Testing.
+## A/B Testing.
 
   Para el proyecto A:
 
@@ -43,7 +43,7 @@ Elección y características
   Por otro lado, el proyecto B ha recibido una puntuación de 55 (Marginal D) por parte de Jose Luis, un 90 (Aceptable A) por parte de Daniel, un 77,5 (Aceptable B) por parte de Natalia y un 85 (Aceptable A) por parte de Martina. Una vez más se ve la diferencia entre los usuarios con más conocimiento respecto a aquellos que tienen menos. La puntuación media para el proyecto B es, por tanto, de 76.88 (Aceptable B/A).
 
 
-* Tareas realizadas
+## Tareas realizadas
 
   Se ha realizado un Eye Tracking para cada proyecto mediante la plataforma GazeReporter.
   
@@ -51,7 +51,7 @@ Elección y características
 
   https://github.com/carloshoyo/DIU/assets/130358033/6bcd3076-bf91-4105-a4dd-ef0bdb9b8419
 
-  Para comprobar las áreas de interés pulse <a href="https://github.com/carloshoyo/DIU/tree/master/P4/AoI">aquí</a>
+  Para comprobar las áreas de interés del proyecto A pulse <a href="https://github.com/carloshoyo/DIU/tree/master/P4/AoI">aquí</a>
 
 
   - Para el caso B:
@@ -59,11 +59,14 @@ Elección y características
   https://github.com/carloshoyo/DIU/assets/130358033/5036a78d-b106-4efb-b012-9dccada0cc8f
 
 
-* Usability Report de Caso B
+
+
+
+## Usability Report de Caso B
 
   El usability report se ha hecho siguiendo la plantilla proporcionado en documento de Word y se puede encontrar <a href="https://github.com/carloshoyo/DIU/blob/master/P4/P4_UsabReport_DIU1_ElPatio_doneby_DIU2_CHL.pdf">aquí</a>.
 * Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
 
-* Conclusiones
+## Conclusiones
 
 Esta práctica es muy útil para testar nuestro proyecto y poder comparar nuestros resultados con los del proyecto B, de manera que veamos en qué hemos podido ser mejores y en qué necesitamos mejorar de cara a mejorar nuestro producto.
