@@ -45,7 +45,7 @@ Elección y características
 
 * Tareas realizadas
 
-  Se ha realizado un Eye Track para cada proyecto mediante la plataforma GazeReporter.
+  Se ha realizado un Eye Tracking para cada proyecto mediante la plataforma GazeReporter.
   
   - Para el caso A:  
 
