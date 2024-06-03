@@ -19,10 +19,10 @@ Elección y características
 
 | Id Usuario | Sexo | Edad | Ocupación | Experiencia en internet | Plataforma | Perfil cubierto | Test | SUS Score |
 |------------|------|------|-----------|-------------------------|------------|-----------------|------|-----------|
-| Jose Luis  | Masculino | 70 | Jubilado  | Baja                    | Windows    | Jubilado con ganas de disfrutar el tiempo que ahora tiene, pero asustado por la poca idea de usar tecnologías que posee| A/B | 23 |
-| Daniel | Masculino | 35 | Desarrollo de software | Alta | MacOS | Padre de familia , feliz y con mucho conocimiento y experiencia en la tecnología | A/B | 23 |
-| Natalia | Femenino | 25 | Traductora | Intermedia | Windows | Persona discapacitada que va en silla de ruedas, triste porque hay muchas actividades que no puede realizar por su condición física | A/B | 23 |
-| Martina | Femenino | 42 | Empresaria | Intermedia/Alta | MacOS | Empresaria de 42 años, dedicada al trabajo pero con ganas de disfrutar el poco tiempo libre del que dispone | A/B | 23 |
+| Jose Luis  | Masculino | 70 | Jubilado  | Baja                    | Windows    | Jubilado con ganas de disfrutar el tiempo que ahora tiene, pero asustado por la poca idea de usar tecnologías que posee| A/B | 57.5/55 |
+| Daniel | Masculino | 35 | Desarrollo de software | Alta | MacOS | Padre de familia , feliz y con mucho conocimiento y experiencia en la tecnología | A/B | 90/90 |
+| Natalia | Femenino | 25 | Traductora | Intermedia | Windows | Persona discapacitada que va en silla de ruedas, triste porque hay muchas actividades que no puede realizar por su condición física | A/B | 80/77.5 |
+| Martina | Femenino | 42 | Empresaria | Intermedia/Alta | MacOS | Empresaria de 42 años, dedicada al trabajo pero con ganas de disfrutar el poco tiempo libre del que dispone | A/B | 87.5/85 |
 
 
 ## A/B Testing.
