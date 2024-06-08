@@ -296,9 +296,13 @@ Las técnicas usadas son muy ingeniosas y sobre todo útiles de cara a observar 
 
 
 ## Conclusión final / Valoración de las prácticas
+ En general, las prácticas realizadas para la asignatura han resultado útiles a la hora de conocer cómo se lleva a cabo el desarrollo de una aplicación en la vidad real, centrándose en el aspecto de la usabilidad y viéndolo desde el punto de vista del usuario en muchos casos, intentando empatizar con él para así poder identificar aquellos aspectos a mejorar y en los que prestar más atención.
+ 
+ Además, considero que la introducción que se hace a Figma en esta asignatura es muy importante, ya que es una herramienta con un increíble potencial, en la que se puede realizar el diseño de una interfaz al completo, para después pasarla al producto final en sí mismo.
 
+ También considero que la manera de evaluar la usabilidad de nuestra aplicación es interesante, ya que se aprenden cosas básicas para conseguir el "feedback" del cliente y así poder conocer las diferentes opiniones de la gente que hace uso de nuestro producto, ya que son estos quienes van a darle uso a fin de cuentas.
 
->>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+ En resumen, creo que las prácticas son bastante interesantes y útiles en nuestra formación como desarrolladores de software de cara a un futuro. 
 
 
 
